@@ -5,9 +5,9 @@ Sou um desenvolvedor full-stack brasileiro com experiência em Java Spring e Rea
 Minha stack é construída para criar soluções robustas, e estou sempre explorando novas ferramentas para otimizar meu fluxo de trabalho.
 
 #### Back-end
-![Minha Stack](https://skillicons.dev/icons?i=java,spring,nodejs,mongo,postgres,supabase,docker,ubuntu)
+![Minha Stack](https://skillicons.dev/icons?i=java,spring,nodejs,vitest,mongo,postgres,supabase,docker,ubuntu)
 #### Front-end
-![Minha Stack](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap,js,ts)
+![Minha Stack](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap,js,ts,sass)
 
 ### 🌱 Projetos e Interesses
 Estou focado em me aprofundar em microsserviços, integração de sistemas e na automação de processos utilizando ferramentas como n8n e IA. Além disso, tenho dedicado grande atenção ao meu inglês para impulsionar minha evolução profissional.
